@@ -29,11 +29,11 @@ The ESP32 drives the relay across the opto-isolation barrier using three low-vol
 
 ### Schematic diagram
 
-*(Place the schematic diagram here — shows the optocoupler isolation between the ESP32's 3.3V logic and the 230V mains side, and how the coil's magnetic pull closes the NO contact.)*
+![Schematic diagram](images/schematic-diagram.png)
 
 ### Wiring / circuit diagram
 
-*(Place the board-level wiring diagram here — shows the plug, wall switch, relay module with its screw terminals and control header, the ESP32 dev board, and the tube light, drawn as the physical components.)*
+![Wiring / circuit diagram](images/wiring-diagram.png)
 
 ## Relay logic (important quirk)
 
